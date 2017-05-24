@@ -1,0 +1,9 @@
+DNS 域名系统    如果没有或者错误，只能访问局域网，不能访问外网
+
+IP记忆困难，DNS别名帮助记忆
+
+/etc/hosts文件,C:\WINDOWS\system32\drivers\etc\hosts文件
+127.0.0.127     localhost
+
+
+
